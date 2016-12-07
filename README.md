@@ -1,10 +1,10 @@
 ## Environment
-* **Fedora 25**
-* Android Studio 2.2.2
+* Fedora 25
+* Android Studio **2.2.3**
  - Taget SDK Version 24
- - Minimum SDK Version 15
- - buildToolsVersion 24.0.3
-* Rajawali **1.1.777**
+ - Minimum SDK Version **21**
+ - buildToolsVersion **25.0.1**
+* Rajawali 1.1.777
 
 ## Based on
 * [Ralawali Base Project](http://www.clintonmedbery.com/basic-rajawali3d-tutorial-for-android/)
