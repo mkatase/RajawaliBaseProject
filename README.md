@@ -1,10 +1,10 @@
 ## Environment
-* Fedora 25 **4.9.14-200**
+* Fedora 25 **4.10.5-200**
 * Oracle Java SE 8u121
 * Android Studio 2.3
  - Taget SDK Version 25
  - Minimum SDK Version 21
- - buildToolsVersion **25.0.3**
+ - buildToolsVersion **25.0.2**
 * Rajawali 1.1.777
 
 ## Based on
