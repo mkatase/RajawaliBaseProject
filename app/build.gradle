@@ -27,6 +27,6 @@ dependencies {
 
     def SupportVer='25.3.1'
     compile "com.android.support:appcompat-v7:$SupportVer"
-    compile 'org.rajawali3d:rajawali:1.1.777@aar'
+    compile 'org.rajawali3d:rajawali:1.1.970@aar'
     testCompile 'junit:junit:4.12'
 }
