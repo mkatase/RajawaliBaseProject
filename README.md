@@ -1,5 +1,5 @@
 ## Environment
-* Fedora **28 4.18.11-200**
+* Fedora **28 4.18.12-200**
 * Oracle Java **SE 8u181**
 * Android Studio **3.2**
  - Taget SDK Version 26
